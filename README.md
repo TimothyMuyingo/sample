@@ -1,2 +1,2 @@
 # sample
-javascript for the web-inpu form
+javascript for the web-input form
